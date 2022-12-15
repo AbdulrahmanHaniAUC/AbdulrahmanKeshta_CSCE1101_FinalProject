@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/graphics">
+        <file>asphalt.png</file>
+        <file>brick_wall.png</file>
+        <file>house.png</file>
+        <file>street.png</file>
+        <file>franklin.png</file>
+        <file>franklin_v2.png</file>
+        <file>car1.png</file>
+        <file>yellowCar.png</file>
+        <file>bullet.png</file>
+        <file>goldskull.png</file>
+        <file>road.png</file>
+        <file>wall.png</file>
+        <file>Grass.png</file>
+        <file>spentshell.png</file>
+        <file>bullet2.png</file>
+        <file>Soldier Pack.png</file>
+        <file>Goblin_idle (1).png</file>
+        <file>castledoors.png</file>
+    </qresource>
+    <qresource prefix="/map">
+        <file>boardmap.txt</file>
+    </qresource>
+</RCC>
